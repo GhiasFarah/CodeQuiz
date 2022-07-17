@@ -82,7 +82,7 @@ for (let i = 0; i < questions.length; i++) {
         } else {
 
             localStorage.setItem('scores', scores)
-            window.location.replace('file:///C:/Users/jayde/OneDrive/Documents/dev/farah_ghias/code_quiz/highscores.html')
+            window.location.replace('file:///C:/Users/Farah/OneDrive/Desktop/code/BootCamp/Challenges/CodeQuiz/highscores.html')
         }
     })
     $(`.q${i}`).children(`.ans1`).click(function (e) {
@@ -98,7 +98,7 @@ for (let i = 0; i < questions.length; i++) {
         } else {
 
             localStorage.setItem('scores', scores)
-            window.location.replace('file:///C:/Users/jayde/OneDrive/Documents/dev/farah_ghias/code_quiz/highscores.html')
+            window.location.replace('file:///C:/Users/Farah/OneDrive/Desktop/code/BootCamp/Challenges/CodeQuiz/highscores.html')
         }
     })
     $(`.q${i}`).children(`.ans2`).click(function (e) {
@@ -114,7 +114,7 @@ for (let i = 0; i < questions.length; i++) {
         } else {
 
             localStorage.setItem('scores', scores)
-            window.location.replace('file:///C:/Users/jayde/OneDrive/Documents/dev/farah_ghias/code_quiz/highscores.html')
+            window.location.replace('file:///C:/Users/Farah/OneDrive/Desktop/code/BootCamp/Challenges/CodeQuiz/highscores.html')
         }
     })
     $(`.q${i}`).children(`.ans3`).click(function (e) {
@@ -130,7 +130,7 @@ for (let i = 0; i < questions.length; i++) {
         } else {
 
             localStorage.setItem('scores', scores)
-            window.location.replace('file:///C:/Users/jayde/OneDrive/Documents/dev/farah_ghias/code_quiz/highscores.html')
+            window.location.replace('file:///C:/Users/Farah/OneDrive/Desktop/code/BootCamp/Challenges/CodeQuiz/highscores.html')
         }
     })
 
