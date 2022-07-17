@@ -1,23 +1,25 @@
-## Title
-
 # Code Quiz
 
 
-## Description
+# Description
 
-# it is a quiz about front end web development syntax
+## it is a quiz about front end web development syntax
 
-## Github Username
+# Deployed Link
 
-# GhiasFarah
+## https://ghiasfarah.github.io/CodeQuiz/
+
+# Github Username
+
+## GhiasFarah
 
 
-## Email
+# Email
 
-# noneya
+## noneya@noneya.com
 
-## License
-# MIT
+# License
+## MIT
 
 
 # Screenshot
